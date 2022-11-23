@@ -9,8 +9,7 @@
     "name": "typicode"
   },
   "chohans": [
-    "name": "El Morya",
-    "name": "Lord Lanto",
-    
+    { "name": "El Morya" },
+    { "name": "Lord Lanto" }
   ]
 }
